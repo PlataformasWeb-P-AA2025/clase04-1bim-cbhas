@@ -16,3 +16,6 @@ headers = {'Content-Type': 'application/json'}
 
 datos_finales = {'docs': lista_datos}
 response = requests.post(url, headers=headers, json=datos_finales)
+
+print(response.status_code)
+print(response.json())
