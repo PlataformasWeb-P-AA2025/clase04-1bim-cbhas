@@ -1,4 +1,4 @@
-Tournament,Date,Series,Court,Surface,Round,Best of,Player_1,Player_2,Winner,Rank_1,Rank_2,Pts_1,Pts_2,Odd_1,Odd_2,score
+Tournament,Date,Series,Court,Surface,Round,Best of,Player_1,Player_2,Winner,Rank_1,Rank_2,Pts_1,Pts_2,Odd_1,Odd_2,score 
 Brisbane International,2012-12-31,ATP250,Outdoor,Hard,1st Round,3,Mayer F.,Giraldo S.,Mayer F.,28,57,1215,778,1.36,3,6-4 6-4   
 Brisbane International,2012-12-31,ATP250,Outdoor,Hard,1st Round,3,Benneteau J.,Nieminen J.,Nieminen J.,35,41,1075,927,2.2,1.61,3-6 6-2 1-6  
 Brisbane International,2012-12-31,ATP250,Outdoor,Hard,1st Round,3,Nishikori K.,Matosevic M.,Nishikori K.,19,49,1830,845,1.25,3.75,7-5 6-2   
@@ -1173,33 +1173,33 @@ Power Horse Cup,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Nieminen J.,Haas 
 Power Horse Cup,2013-05-24,ATP250,Outdoor,Clay,Semifinals,3,Pella G.,Monaco J.,Monaco J.,101,19,537,1750,5.5,1.14,4-6 6-7   
 Power Horse Cup,2013-05-24,ATP250,Outdoor,Clay,Semifinals,3,Nieminen J.,Sijsling I.,Nieminen J.,42,68,945,688,1.5,2.62,7-5 4-6 6-3  
 Power Horse Cup,2013-05-25,ATP250,Outdoor,Clay,The Final,3,Nieminen J.,Monaco J.,Monaco J.,42,19,945,1750,3.75,1.28,4-6 3-6   
-Open de Nice Côte d’Azur,2013-05-19,ATP250,Outdoor,Clay,1st Round,3,Berankis R.,Istomin D.,Berankis R.,67,43,698,935,2.37,1.53,6-2 6-2   
-Open de Nice Côte d’Azur,2013-05-19,ATP250,Outdoor,Clay,1st Round,3,Falla A.,Roger-Vasselin E.,Roger-Vasselin E.,70,75,676,666,3,1.36,5-7    
-Open de Nice Côte d’Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Mayer L.,Berlocq C.,64,62,740,757,1.28,3.5,6-2 6-1   
-Open de Nice Côte d’Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Matosevic M.,Haase R.,Haase R.,61,69,761,682,3,1.36,1-6 4-6   
-Open de Nice Côte d’Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Lu Y.H.,Seppi A.,Lu Y.H.,72,22,673,1530,7,1.1,7-5 1-6 6-4  
-Open de Nice Côte d’Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Hewitt L.,Andujar P.,Andujar P.,85,53,610,815,3.25,1.33,3-6 6-4 3-6  
-Open de Nice Côte d’Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Hanescu V.,Ramos A.,Hanescu V.,55,63,815,750,3,1.36,6-3 5-7 6-4  
-Open de Nice Côte d’Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Dutra Silva R.,Stakhovsky S.,Stakhovsky S.,94,100,571,539,2.1,1.66,2-6 3-6   
-Open de Nice Côte d’Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Fognini F.,Cecchinato M.,Fognini F.,29,357,1345,112,1.14,5.5,1-6 6-1 6-2  
-Open de Nice Côte d’Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Harrison R.,Mathieu P.H.,Mathieu P.H.,87,76,598,663,2.25,1.57,4-6 4-6   
-Open de Nice Côte d’Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Monfils G.,Giraldo S.,Monfils G.,109,78,510,650,1.44,2.62,4-6 6-3 6-3  
-Open de Nice Côte d’Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Lorenzi P.,Rufin G.,Rufin G.,66,102,701,535,1.72,2,3-6 1-6   
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Roger-Vasselin E.,Berankis R.,Roger-Vasselin E.,75,67,666,698,1.4,2.75,2-6 6-4 6-2  
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Hanescu V.,Montanes A.,Montanes A.,55,82,815,637,1.53,2.37,5-7 6-7   
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Querrey S.,Stakhovsky S.,Querrey S.,20,100,1730,539,1.53,2.37,7-5 6-3   
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Lu Y.H.,Andujar P.,Andujar P.,72,53,673,815,5,1.16,2-6 0-6   
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Mathieu P.H.,Berlocq C.,Mathieu P.H.,76,64,663,740,3,1.36,7-5 3-6 6-3  
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Isner J.,Haase R.,Haase R.,21,69,1690,682,1.66,2.1,4-6 6-1 5-7  
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,Rufin G.,Simon G.,17,102,1940,535,1.33,3.25,6-4 6-3   
-Open de Nice Côte d’Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Fognini F.,Monfils G.,Monfils G.,29,109,1345,510,1.9,1.8,2-6 6-7   
-Open de Nice Côte d’Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Roger-Vasselin E.,Querrey S.,Roger-Vasselin E.,75,20,666,1730,1.83,1.83,3-6 7-6 6-1  
-Open de Nice Côte d’Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Mathieu P.H.,Montanes A.,Montanes A.,76,82,663,637,1.8,1.9,4-6 1-6   
-Open de Nice Côte d’Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Andujar P.,Simon G.,Andujar P.,53,17,815,1940,2.75,1.4,6-4 7-5   
-Open de Nice Côte d’Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Haase R.,Monfils G.,Monfils G.,69,109,682,510,2.75,1.4,2-6 3-6   
-Open de Nice Côte d’Azur,2013-05-24,ATP250,Outdoor,Clay,Semifinals,3,Montanes A.,Roger-Vasselin E.,Montanes A.,82,75,637,666,1.66,2.1,6-4 4-6 6-0  
-Open de Nice Côte d’Azur,2013-05-24,ATP250,Outdoor,Clay,Semifinals,3,Andujar P.,Monfils G.,Monfils G.,53,109,815,510,2.75,1.44,5-7 4-6   
-Open de Nice Côte d’Azur,2013-05-25,ATP250,Outdoor,Clay,The Final,3,Montanes A.,Monfils G.,Montanes A.,82,109,637,510,3.4,1.33,6-0 7-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-19,ATP250,Outdoor,Clay,1st Round,3,Berankis R.,Istomin D.,Berankis R.,67,43,698,935,2.37,1.53,6-2 6-2   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-19,ATP250,Outdoor,Clay,1st Round,3,Falla A.,Roger-Vasselin E.,Roger-Vasselin E.,70,75,676,666,3,1.36,5-7    
+Open de Nice Cï¿½te dï¿½Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Mayer L.,Berlocq C.,64,62,740,757,1.28,3.5,6-2 6-1   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Matosevic M.,Haase R.,Haase R.,61,69,761,682,3,1.36,1-6 4-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Lu Y.H.,Seppi A.,Lu Y.H.,72,22,673,1530,7,1.1,7-5 1-6 6-4  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Hewitt L.,Andujar P.,Andujar P.,85,53,610,815,3.25,1.33,3-6 6-4 3-6  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-20,ATP250,Outdoor,Clay,1st Round,3,Hanescu V.,Ramos A.,Hanescu V.,55,63,815,750,3,1.36,6-3 5-7 6-4  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Dutra Silva R.,Stakhovsky S.,Stakhovsky S.,94,100,571,539,2.1,1.66,2-6 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Fognini F.,Cecchinato M.,Fognini F.,29,357,1345,112,1.14,5.5,1-6 6-1 6-2  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Harrison R.,Mathieu P.H.,Mathieu P.H.,87,76,598,663,2.25,1.57,4-6 4-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Monfils G.,Giraldo S.,Monfils G.,109,78,510,650,1.44,2.62,4-6 6-3 6-3  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-21,ATP250,Outdoor,Clay,1st Round,3,Lorenzi P.,Rufin G.,Rufin G.,66,102,701,535,1.72,2,3-6 1-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Roger-Vasselin E.,Berankis R.,Roger-Vasselin E.,75,67,666,698,1.4,2.75,2-6 6-4 6-2  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Hanescu V.,Montanes A.,Montanes A.,55,82,815,637,1.53,2.37,5-7 6-7   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Querrey S.,Stakhovsky S.,Querrey S.,20,100,1730,539,1.53,2.37,7-5 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Lu Y.H.,Andujar P.,Andujar P.,72,53,673,815,5,1.16,2-6 0-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Mathieu P.H.,Berlocq C.,Mathieu P.H.,76,64,663,740,3,1.36,7-5 3-6 6-3  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Isner J.,Haase R.,Haase R.,21,69,1690,682,1.66,2.1,4-6 6-1 5-7  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,Rufin G.,Simon G.,17,102,1940,535,1.33,3.25,6-4 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-22,ATP250,Outdoor,Clay,2nd Round,3,Fognini F.,Monfils G.,Monfils G.,29,109,1345,510,1.9,1.8,2-6 6-7   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Roger-Vasselin E.,Querrey S.,Roger-Vasselin E.,75,20,666,1730,1.83,1.83,3-6 7-6 6-1  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Mathieu P.H.,Montanes A.,Montanes A.,76,82,663,637,1.8,1.9,4-6 1-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Andujar P.,Simon G.,Andujar P.,53,17,815,1940,2.75,1.4,6-4 7-5   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Haase R.,Monfils G.,Monfils G.,69,109,682,510,2.75,1.4,2-6 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-24,ATP250,Outdoor,Clay,Semifinals,3,Montanes A.,Roger-Vasselin E.,Montanes A.,82,75,637,666,1.66,2.1,6-4 4-6 6-0  
+Open de Nice Cï¿½te dï¿½Azur,2013-05-24,ATP250,Outdoor,Clay,Semifinals,3,Andujar P.,Monfils G.,Monfils G.,53,109,815,510,2.75,1.44,5-7 4-6   
+Open de Nice Cï¿½te dï¿½Azur,2013-05-25,ATP250,Outdoor,Clay,The Final,3,Montanes A.,Monfils G.,Montanes A.,82,109,637,510,3.4,1.33,6-0 7-6   
 French Open,2013-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Duckworth J.,Kavcic B.,Kavcic B.,185,104,273,529,2.25,1.57,2-6 2-6 2-6  
 French Open,2013-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Anderson K.,Marchenko I.,Anderson K.,25,120,1420,447,1.05,11,6-3 7-5 6-4  
 French Open,2013-05-26,Grand Slam,Outdoor,Clay,1st Round,5,Soeda G.,Sousa J.,Sousa J.,124,119,435,447,4.5,1.18,1-6 3-6 2-6  
@@ -1779,33 +1779,33 @@ BB&T Atlanta Open,2013-07-27,ATP250,Outdoor,Hard,Quarterfinals,3,Anderson K.,Ist
 BB&T Atlanta Open,2013-07-27,ATP250,Outdoor,Hard,Semifinals,3,Hewitt L.,Isner J.,Isner J.,64,22,755,1610,2.1,1.72,4-6 6-4 6-7  
 BB&T Atlanta Open,2013-07-28,ATP250,Outdoor,Hard,Semifinals,3,Anderson K.,Harrison R.,Anderson K.,21,132,1635,431,1.36,3.25,6-3 7-6   
 BB&T Atlanta Open,2013-07-28,ATP250,Outdoor,Hard,The Final,3,Anderson K.,Isner J.,Isner J.,21,22,1635,1610,2,1.8,7-6 6-7 6-7  
-Crédit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Kuznetsov An.,Stakhovsky S.,Kuznetsov An.,82,99,634,568,1.66,2.1,7-5 3-6 6-2  
-Crédit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Rosol L.,Granollers M.,Granollers M.,40,51,982,870,2.62,1.44,2-6 4-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Youzhny M.,Mathieu P.H.,Youzhny M.,33,101,1235,561,1.36,3,6-3 4-6 6-2  
-Crédit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Hernych J.,Lopez F.,Lopez F.,183,29,262,1325,4,1.22,6-7 3-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,De Schepper K.,Gimeno-Traver D.,62,69,772,716,1.4,2.75,6-4 6-4   
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Laaksonen H.,Bautista R.,Bautista R.,187,48,257,875,3.75,1.25,2-6 3-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Crivoi V.,Andujar P.,50,206,870,230,1.28,3.5,6-1 6-2   
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Ungur A.,Garcia-Lopez G.,Garcia-Lopez G.,94,78,587,666,3.5,1.28,4-6 7-6 1-6  
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Bellucci T.,Delbonis F.,65,113,752,495,2,1.72,7-5 7-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Brown D.,Hanescu V.,Hanescu V.,180,54,264,839,2.87,1.38,6-7 2-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Souza J.,Haase R.,57,122,817,466,1.36,3,6-4 7-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Chiudinelli M.,Brands D.,Brands D.,158,55,349,838,3.75,1.25,3-6 6-3 2-6  
-Crédit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Youzhny M.,Andujar P.,Youzhny M.,33,50,1235,870,1.53,2.37,6-3 4-6 6-3  
-Crédit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Monaco J.,Monaco J.,78,30,666,1270,3.4,1.3,1-6 2-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Lopez F.,Kuznetsov An.,Lopez F.,29,82,1325,634,1.38,2.87,6-4 6-3   
-Crédit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Gimeno-Traver D.,Wawrinka S.,Wawrinka S.,62,10,772,2915,6,1.12,5-7 6-7   
-Crédit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Granollers M.,Delbonis F.,Granollers M.,51,65,870,752,2.25,1.57,6-2 7-5   
-Crédit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Bautista R.,Hanescu V.,Hanescu V.,48,54,875,839,1.72,2,6-7 2-3   
-Crédit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Haase R.,Tipsarevic J.,Haase R.,57,18,817,2025,2.2,1.61,6-2 6-2   
-Crédit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Federer R.,Brands D.,Brands D.,5,55,5875,838,1.1,7,3-6 4-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Youzhny M.,Monaco J.,Youzhny M.,33,30,1235,1270,2.75,1.4,5-7 6-4 7-6  
-Crédit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Brands D.,Hanescu V.,Hanescu V.,55,54,838,839,1.72,2,3-6 4-6   
-Crédit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Haase R.,Granollers M.,Haase R.,57,51,817,870,2.25,1.57,5-7 6-3 7-6  
-Crédit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Wawrinka S.,Lopez F.,Lopez F.,10,29,2915,1325,1.25,3.75,4-6 6-2 3-4  
-Crédit Agricole Suisse Open Gstaad,2013-07-27,ATP250,Outdoor,Clay,Semifinals,3,Youzhny M.,Hanescu V.,Youzhny M.,33,54,1235,839,1.53,2.5,6-3 6-3   
-Crédit Agricole Suisse Open Gstaad,2013-07-27,ATP250,Outdoor,Clay,Semifinals,3,Lopez F.,Haase R.,Haase R.,29,57,1325,817,1.66,2.2,6-4 1-6 4-6  
-Crédit Agricole Suisse Open Gstaad,2013-07-28,ATP250,Outdoor,Clay,The Final,3,Youzhny M.,Haase R.,Youzhny M.,33,57,1235,817,1.4,3,6-3 6-4   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Kuznetsov An.,Stakhovsky S.,Kuznetsov An.,82,99,634,568,1.66,2.1,7-5 3-6 6-2  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Rosol L.,Granollers M.,Granollers M.,40,51,982,870,2.62,1.44,2-6 4-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Youzhny M.,Mathieu P.H.,Youzhny M.,33,101,1235,561,1.36,3,6-3 4-6 6-2  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Hernych J.,Lopez F.,Lopez F.,183,29,262,1325,4,1.22,6-7 3-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,De Schepper K.,Gimeno-Traver D.,62,69,772,716,1.4,2.75,6-4 6-4   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Laaksonen H.,Bautista R.,Bautista R.,187,48,257,875,3.75,1.25,2-6 3-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Crivoi V.,Andujar P.,50,206,870,230,1.28,3.5,6-1 6-2   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Ungur A.,Garcia-Lopez G.,Garcia-Lopez G.,94,78,587,666,3.5,1.28,4-6 7-6 1-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Bellucci T.,Delbonis F.,65,113,752,495,2,1.72,7-5 7-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Brown D.,Hanescu V.,Hanescu V.,180,54,264,839,2.87,1.38,6-7 2-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Souza J.,Haase R.,57,122,817,466,1.36,3,6-4 7-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Chiudinelli M.,Brands D.,Brands D.,158,55,349,838,3.75,1.25,3-6 6-3 2-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Youzhny M.,Andujar P.,Youzhny M.,33,50,1235,870,1.53,2.37,6-3 4-6 6-3  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Monaco J.,Monaco J.,78,30,666,1270,3.4,1.3,1-6 2-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Lopez F.,Kuznetsov An.,Lopez F.,29,82,1325,634,1.38,2.87,6-4 6-3   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-24,ATP250,Outdoor,Clay,2nd Round,3,Gimeno-Traver D.,Wawrinka S.,Wawrinka S.,62,10,772,2915,6,1.12,5-7 6-7   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Granollers M.,Delbonis F.,Granollers M.,51,65,870,752,2.25,1.57,6-2 7-5   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Bautista R.,Hanescu V.,Hanescu V.,48,54,875,839,1.72,2,6-7 2-3   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Haase R.,Tipsarevic J.,Haase R.,57,18,817,2025,2.2,1.61,6-2 6-2   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-25,ATP250,Outdoor,Clay,2nd Round,3,Federer R.,Brands D.,Brands D.,5,55,5875,838,1.1,7,3-6 4-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Youzhny M.,Monaco J.,Youzhny M.,33,30,1235,1270,2.75,1.4,5-7 6-4 7-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Brands D.,Hanescu V.,Hanescu V.,55,54,838,839,1.72,2,3-6 4-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Haase R.,Granollers M.,Haase R.,57,51,817,870,2.25,1.57,5-7 6-3 7-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-26,ATP250,Outdoor,Clay,Quarterfinals,3,Wawrinka S.,Lopez F.,Lopez F.,10,29,2915,1325,1.25,3.75,4-6 6-2 3-4  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-27,ATP250,Outdoor,Clay,Semifinals,3,Youzhny M.,Hanescu V.,Youzhny M.,33,54,1235,839,1.53,2.5,6-3 6-3   
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-27,ATP250,Outdoor,Clay,Semifinals,3,Lopez F.,Haase R.,Haase R.,29,57,1325,817,1.66,2.2,6-4 1-6 4-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2013-07-28,ATP250,Outdoor,Clay,The Final,3,Youzhny M.,Haase R.,Youzhny M.,33,57,1235,817,1.4,3,6-3 6-4   
 ATP Vegeta Croatia Open,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,Ramos A.,Mayer L.,Mayer L.,74,76,685,666,1.33,3.25,1-6 3-6   
 ATP Vegeta Croatia Open,2013-07-22,ATP250,Outdoor,Clay,1st Round,3,De Bakker T.,Tursunov D.,De Bakker T.,108,61,535,784,1.72,2,6-3 6-3   
 ATP Vegeta Croatia Open,2013-07-23,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Haider-Maurer A.,Haider-Maurer A.,98,96,580,583,1.5,2.5,4-6 4-6   
@@ -3787,33 +3787,33 @@ Dusseldorf Open,2014-05-23,ATP250,Outdoor,Clay,Quarterfinals,3,Kohlschreiber P.,
 Dusseldorf Open,2014-05-23,ATP250,Outdoor,Clay,Semifinals,3,Vesely J.,Karlovic I.,Karlovic I.,104,49,559,947,1.36,3.25,6-7 6-7   
 Dusseldorf Open,2014-05-23,ATP250,Outdoor,Clay,Semifinals,3,Kohlschreiber P.,Istomin D.,Kohlschreiber P.,29,57,1280,845,1.44,2.75,6-2 4-6 6-4  
 Dusseldorf Open,2014-05-24,ATP250,Outdoor,Clay,The Final,3,Karlovic I.,Kohlschreiber P.,Kohlschreiber P.,49,29,947,1280,4,1.25,2-6 6-7   
-Open de Nice Côte d’Azur,2014-05-18,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Kukushkin M.,Delbonis F.,45,56,1004,859,1.44,2.62,7-5 6-3   
-Open de Nice Côte d’Azur,2014-05-18,ATP250,Outdoor,Clay,1st Round,3,Gonzalez A.,Roger-Vasselin E.,Roger-Vasselin E.,78,47,675,965,3,1.36,3-6 1-6   
-Open de Nice Côte d’Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Tursunov D.,Nedovyesov A.,Tursunov D.,32,99,1155,591,1.4,2.75,6-1 6-4   
-Open de Nice Côte d’Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Ebden M.,Montanes A.,Montanes A.,75,61,700,785,7,1.1,1-6 3-6   
-Open de Nice Côte d’Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Mahut N.,Vaisse M.,Mahut N.,38,309,1067,146,1.5,2.5,6-7 6-3 6-2  
-Open de Nice Côte d’Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Coric B.,Mayer L.,Mayer L.,245,77,199,676,4,1.22,6-4 3-6 4-6  
-Open de Nice Côte d’Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Mathieu P.H.,Pouille L.,Mathieu P.H.,83,195,636,256,1.28,3.5,2-6 6-4 6-0  
-Open de Nice Côte d’Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Tomic B.,Klizan M.,Klizan M.,81,62,646,775,4,1.22,6-4 3-6 4-6  
-Open de Nice Côte d’Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Volandri F.,Haase R.,50,97,935,592,1.22,4,6-3 6-2   
-Open de Nice Côte d’Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Benneteau J.,Berlocq C.,Berlocq C.,43,48,1035,950,2.25,1.57,1-6 6-4 3-6  
-Open de Nice Côte d’Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Sock J.,De Schepper K.,Sock J.,79,74,656,704,1.44,2.62,6-4 6-2   
-Open de Nice Côte d’Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Johnson S.,Thiem D.,Thiem D.,67,58,748,802,3,1.36,6-3 6-7 5-7  
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Isner J.,Sock J.,Isner J.,11,79,2600,656,1.57,2.25,6-4 6-3   
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Querrey S.,Montanes A.,Montanes A.,64,61,755,785,2.37,1.53,6-4 3-6 2-6  
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Berlocq C.,Mahut N.,Berlocq C.,48,38,950,1067,1.2,4.33,6-2 6-3   
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Roger-Vasselin E.,Mayer L.,Mayer L.,47,77,965,676,1.5,2.5,4-6 6-3 5-7  
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Delbonis F.,Mathieu P.H.,Delbonis F.,45,83,1004,636,1.8,1.9,6-2 6-4   
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Klizan M.,Gulbis E.,Gulbis E.,62,19,775,1890,2.62,1.44,7-6 4-6 1-6  
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Tursunov D.,Haase R.,Tursunov D.,32,50,1155,935,2.25,1.57,6-3 6-4   
-Open de Nice Côte d’Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Thiem D.,Simon G.,Simon G.,58,30,802,1180,2.25,1.57,3-6 6-4 2-6  
-Open de Nice Côte d’Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Montanes A.,Mayer L.,Montanes A.,61,77,785,676,1.83,1.83,6-7 6-4 6-4  
-Open de Nice Côte d’Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Tursunov D.,Gulbis E.,Gulbis E.,32,19,1155,1890,4,1.22,3-6 6-3 6-7  
-Open de Nice Côte d’Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Delbonis F.,Isner J.,Delbonis F.,45,11,1004,2600,2,1.72,6-4 5-7 7-6  
-Open de Nice Côte d’Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Berlocq C.,Simon G.,Simon G.,48,30,950,1180,1.72,2,4-6 1-6   
-Open de Nice Côte d’Azur,2014-05-23,ATP250,Outdoor,Clay,Semifinals,3,Gulbis E.,Montanes A.,Gulbis E.,19,61,1890,785,1.28,3.75,6-0 6-3   
-Open de Nice Côte d’Azur,2014-05-23,ATP250,Outdoor,Clay,Semifinals,3,Simon G.,Delbonis F.,Delbonis F.,30,45,1180,1004,1.61,2.3,2-6 4-6   
-Open de Nice Côte d’Azur,2014-05-24,ATP250,Outdoor,Clay,The Final,3,Gulbis E.,Delbonis F.,Gulbis E.,19,45,1890,1004,1.33,3.4,6-1 7-6   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-18,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Kukushkin M.,Delbonis F.,45,56,1004,859,1.44,2.62,7-5 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-18,ATP250,Outdoor,Clay,1st Round,3,Gonzalez A.,Roger-Vasselin E.,Roger-Vasselin E.,78,47,675,965,3,1.36,3-6 1-6   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Tursunov D.,Nedovyesov A.,Tursunov D.,32,99,1155,591,1.4,2.75,6-1 6-4   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Ebden M.,Montanes A.,Montanes A.,75,61,700,785,7,1.1,1-6 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Mahut N.,Vaisse M.,Mahut N.,38,309,1067,146,1.5,2.5,6-7 6-3 6-2  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Coric B.,Mayer L.,Mayer L.,245,77,199,676,4,1.22,6-4 3-6 4-6  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-19,ATP250,Outdoor,Clay,1st Round,3,Mathieu P.H.,Pouille L.,Mathieu P.H.,83,195,636,256,1.28,3.5,2-6 6-4 6-0  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Tomic B.,Klizan M.,Klizan M.,81,62,646,775,4,1.22,6-4 3-6 4-6  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Volandri F.,Haase R.,50,97,935,592,1.22,4,6-3 6-2   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Benneteau J.,Berlocq C.,Berlocq C.,43,48,1035,950,2.25,1.57,1-6 6-4 3-6  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Sock J.,De Schepper K.,Sock J.,79,74,656,704,1.44,2.62,6-4 6-2   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-20,ATP250,Outdoor,Clay,1st Round,3,Johnson S.,Thiem D.,Thiem D.,67,58,748,802,3,1.36,6-3 6-7 5-7  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Isner J.,Sock J.,Isner J.,11,79,2600,656,1.57,2.25,6-4 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Querrey S.,Montanes A.,Montanes A.,64,61,755,785,2.37,1.53,6-4 3-6 2-6  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Berlocq C.,Mahut N.,Berlocq C.,48,38,950,1067,1.2,4.33,6-2 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Roger-Vasselin E.,Mayer L.,Mayer L.,47,77,965,676,1.5,2.5,4-6 6-3 5-7  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Delbonis F.,Mathieu P.H.,Delbonis F.,45,83,1004,636,1.8,1.9,6-2 6-4   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Klizan M.,Gulbis E.,Gulbis E.,62,19,775,1890,2.62,1.44,7-6 4-6 1-6  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Tursunov D.,Haase R.,Tursunov D.,32,50,1155,935,2.25,1.57,6-3 6-4   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-21,ATP250,Outdoor,Clay,2nd Round,3,Thiem D.,Simon G.,Simon G.,58,30,802,1180,2.25,1.57,3-6 6-4 2-6  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Montanes A.,Mayer L.,Montanes A.,61,77,785,676,1.83,1.83,6-7 6-4 6-4  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Tursunov D.,Gulbis E.,Gulbis E.,32,19,1155,1890,4,1.22,3-6 6-3 6-7  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Delbonis F.,Isner J.,Delbonis F.,45,11,1004,2600,2,1.72,6-4 5-7 7-6  
+Open de Nice Cï¿½te dï¿½Azur,2014-05-22,ATP250,Outdoor,Clay,Quarterfinals,3,Berlocq C.,Simon G.,Simon G.,48,30,950,1180,1.72,2,4-6 1-6   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-23,ATP250,Outdoor,Clay,Semifinals,3,Gulbis E.,Montanes A.,Gulbis E.,19,61,1890,785,1.28,3.75,6-0 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-23,ATP250,Outdoor,Clay,Semifinals,3,Simon G.,Delbonis F.,Delbonis F.,30,45,1180,1004,1.61,2.3,2-6 4-6   
+Open de Nice Cï¿½te dï¿½Azur,2014-05-24,ATP250,Outdoor,Clay,The Final,3,Gulbis E.,Delbonis F.,Gulbis E.,19,45,1890,1004,1.33,3.4,6-1 7-6   
 French Open,2014-05-25,Grand Slam,Outdoor,Clay,1st Round,5,Kyrgios N.,Raonic M.,Raonic M.,160,9,350,2975,9,1.07,3-6 6-7 3-6  
 French Open,2014-05-25,Grand Slam,Outdoor,Clay,1st Round,5,Youzhny M.,Carreno-Busta P.,Youzhny M.,16,68,2065,729,1.36,3,3-6 1-6 6-3 6-4 6-0
 French Open,2014-05-25,Grand Slam,Outdoor,Clay,1st Round,5,Devvarman S.,Nedovyesov A.,Nedovyesov A.,96,101,595,591,1.8,1.9,7-5 3-6 6-7 3-6 
@@ -4392,33 +4392,33 @@ BB&T Atlanta Open,2014-07-26,ATP250,Outdoor,Hard,Quarterfinals,3,Pospisil V.,Sel
 BB&T Atlanta Open,2014-07-26,ATP250,Outdoor,Hard,Semifinals,3,Isner J.,Sock J.,Isner J.,12,72,2690,733,1.44,2.75,7-5 6-4   
 BB&T Atlanta Open,2014-07-27,ATP250,Outdoor,Hard,Semifinals,3,Becker B.,Sela D.,Sela D.,66,94,758,588,1.72,2.1,3-6 6-3 3-6  
 BB&T Atlanta Open,2014-07-27,ATP250,Outdoor,Hard,The Final,3,Isner J.,Sela D.,Isner J.,12,94,2690,588,1.25,4,6-3 6-4   
-Crédit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Brown D.,Delbonis F.,Delbonis F.,90,56,596,819,2.75,1.4,3-6 3-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Troicki V.,Thiem D.,Troicki V.,847,47,20,887,3.75,1.25,7-6 6-4   
-Crédit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Cervantes I.,Golubev A.,Golubev A.,330,59,139,802,2.37,1.53,6-3 3-6 6-7  
-Crédit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Monaco J.,Hanescu V.,Monaco J.,105,129,550,482,1.53,2.37,6-4 7-5   
-Crédit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Melzer G.,Bellucci T.,Bellucci T.,148,93,398,593,2.5,1.5,3-6 4-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,De Schepper K.,Volandri F.,De Schepper K.,110,119,541,513,1.83,1.83,6-3 7-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Nedovyesov A.,Haase R.,Haase R.,99,51,573,865,2.75,1.4,4-6 7-6 3-6  
-Crédit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Rola B.,De Paula F.,Rola B.,80,458,669,86,1.16,5,6-4 6-4   
-Crédit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Haider-Maurer A.,Struff J.L.,Struff J.L.,109,78,541,695,1.9,1.8,2-6 0-1   
-Crédit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Simon G.,Andujar P.,71,36,736,1110,2.5,1.5,6-2 3-2   
-Crédit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,Marti Y.,Marti Y.,89,212,615,232,1.28,3.5,7-5 6-7 6-7  
-Crédit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,1st Round,3,Laaksonen H.,Mina G.,Laaksonen H.,319,399,143,107,1.9,1.8,7-6 7-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Monaco J.,Monaco J.,32,105,1163,550,1.83,1.83,2-6 6-2 4-6  
-Crédit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Bellucci T.,Delbonis F.,Bellucci T.,93,56,593,819,2.5,1.5,6-4 6-4   
-Crédit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Rola B.,Andujar P.,Andujar P.,80,71,669,736,3,1.36,3-6 3-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Granollers M.,Marti Y.,Granollers M.,28,212,1285,232,1.22,4,6-1 6-4   
-Crédit Agricole Suisse Open Gstaad,2014-07-24,ATP250,Outdoor,Clay,2nd Round,3,De Schepper K.,Youzhny M.,Youzhny M.,110,19,541,1735,4.5,1.18,3-6 4-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-24,ATP250,Outdoor,Clay,2nd Round,3,Haase R.,Laaksonen H.,Haase R.,51,319,865,143,1.25,3.75,6-4 1-6 7-5  
-Crédit Agricole Suisse Open Gstaad,2014-07-24,ATP250,Outdoor,Clay,2nd Round,3,Golubev A.,Troicki V.,Troicki V.,59,847,802,20,2.37,1.53,3-6 4-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,2nd Round,3,Verdasco F.,Struff J.L.,Verdasco F.,38,78,1100,695,1.33,3.25,3-6 6-3 7-6  
-Crédit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Bellucci T.,Monaco J.,Monaco J.,93,105,593,550,2.1,1.66,6-7 1-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Haase R.,Youzhny M.,Haase R.,51,19,865,1735,3,1.36,3-6 6-1 6-4  
-Crédit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Granollers M.,Andujar P.,Andujar P.,28,71,1285,736,1.8,1.9,5-7 3-6   
-Crédit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Verdasco F.,Troicki V.,Verdasco F.,38,847,1100,20,1.5,2.5,6-4 6-7 6-1  
-Crédit Agricole Suisse Open Gstaad,2014-07-26,ATP250,Outdoor,Clay,Semifinals,3,Haase R.,Monaco J.,Monaco J.,51,105,865,550,2.75,1.44,3-6 6-7   
-Crédit Agricole Suisse Open Gstaad,2014-07-26,ATP250,Outdoor,Clay,Semifinals,3,Andujar P.,Verdasco F.,Andujar P.,71,38,736,1100,2.5,1.53,6-3 6-7 6-1  
-Crédit Agricole Suisse Open Gstaad,2014-07-27,ATP250,Outdoor,Clay,The Final,3,Monaco J.,Andujar P.,Andujar P.,105,71,550,736,1.66,2.2,3-6 5-7   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Brown D.,Delbonis F.,Delbonis F.,90,56,596,819,2.75,1.4,3-6 3-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Troicki V.,Thiem D.,Troicki V.,847,47,20,887,3.75,1.25,7-6 6-4   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Cervantes I.,Golubev A.,Golubev A.,330,59,139,802,2.37,1.53,6-3 3-6 6-7  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Monaco J.,Hanescu V.,Monaco J.,105,129,550,482,1.53,2.37,6-4 7-5   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Melzer G.,Bellucci T.,Bellucci T.,148,93,398,593,2.5,1.5,3-6 4-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,De Schepper K.,Volandri F.,De Schepper K.,110,119,541,513,1.83,1.83,6-3 7-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Nedovyesov A.,Haase R.,Haase R.,99,51,573,865,2.75,1.4,4-6 7-6 3-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Rola B.,De Paula F.,Rola B.,80,458,669,86,1.16,5,6-4 6-4   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Haider-Maurer A.,Struff J.L.,Struff J.L.,109,78,541,695,1.9,1.8,2-6 0-1   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Simon G.,Andujar P.,71,36,736,1110,2.5,1.5,6-2 3-2   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,Marti Y.,Marti Y.,89,212,615,232,1.28,3.5,7-5 6-7 6-7  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,1st Round,3,Laaksonen H.,Mina G.,Laaksonen H.,319,399,143,107,1.9,1.8,7-6 7-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Monaco J.,Monaco J.,32,105,1163,550,1.83,1.83,2-6 6-2 4-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Bellucci T.,Delbonis F.,Bellucci T.,93,56,593,819,2.5,1.5,6-4 6-4   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Rola B.,Andujar P.,Andujar P.,80,71,669,736,3,1.36,3-6 3-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-23,ATP250,Outdoor,Clay,2nd Round,3,Granollers M.,Marti Y.,Granollers M.,28,212,1285,232,1.22,4,6-1 6-4   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-24,ATP250,Outdoor,Clay,2nd Round,3,De Schepper K.,Youzhny M.,Youzhny M.,110,19,541,1735,4.5,1.18,3-6 4-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-24,ATP250,Outdoor,Clay,2nd Round,3,Haase R.,Laaksonen H.,Haase R.,51,319,865,143,1.25,3.75,6-4 1-6 7-5  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-24,ATP250,Outdoor,Clay,2nd Round,3,Golubev A.,Troicki V.,Troicki V.,59,847,802,20,2.37,1.53,3-6 4-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,2nd Round,3,Verdasco F.,Struff J.L.,Verdasco F.,38,78,1100,695,1.33,3.25,3-6 6-3 7-6  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Bellucci T.,Monaco J.,Monaco J.,93,105,593,550,2.1,1.66,6-7 1-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Haase R.,Youzhny M.,Haase R.,51,19,865,1735,3,1.36,3-6 6-1 6-4  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Granollers M.,Andujar P.,Andujar P.,28,71,1285,736,1.8,1.9,5-7 3-6   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-25,ATP250,Outdoor,Clay,Quarterfinals,3,Verdasco F.,Troicki V.,Verdasco F.,38,847,1100,20,1.5,2.5,6-4 6-7 6-1  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-26,ATP250,Outdoor,Clay,Semifinals,3,Haase R.,Monaco J.,Monaco J.,51,105,865,550,2.75,1.44,3-6 6-7   
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-26,ATP250,Outdoor,Clay,Semifinals,3,Andujar P.,Verdasco F.,Andujar P.,71,38,736,1100,2.5,1.53,6-3 6-7 6-1  
+Crï¿½dit Agricole Suisse Open Gstaad,2014-07-27,ATP250,Outdoor,Clay,The Final,3,Monaco J.,Andujar P.,Andujar P.,105,71,550,736,1.66,2.2,3-6 5-7   
 ATP Vegeta Croatia Open,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Coric B.,Roger-Vasselin E.,Coric B.,230,46,214,920,3.4,1.3,6-2 6-4   
 ATP Vegeta Croatia Open,2014-07-21,ATP250,Outdoor,Clay,1st Round,3,Lorenzi P.,Carreno-Busta P.,Carreno-Busta P.,83,57,644,815,3.75,1.25,6-4 1-6 5-7  
 ATP Vegeta Croatia Open,2014-07-22,ATP250,Outdoor,Clay,1st Round,3,Rosol L.,Schwartzman D.,Rosol L.,43,100,970,569,1.4,2.75,6-3 3-6 7-6  
@@ -6398,33 +6398,33 @@ Geneva Open,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Wawrinka S.,Delbonis 
 Geneva Open,2015-05-22,ATP250,Outdoor,Clay,Semifinals,3,Bellucci T.,Giraldo S.,Bellucci T.,60,67,823,710,1.5,2.62,6-3 6-4   
 Geneva Open,2015-05-22,ATP250,Outdoor,Clay,Semifinals,3,Delbonis F.,Sousa J.,Sousa J.,74,50,687,903,1.36,3.25,3-6 6-2 4-6  
 Geneva Open,2015-05-23,ATP250,Outdoor,Clay,The Final,3,Bellucci T.,Sousa J.,Bellucci T.,60,50,823,903,1.36,3.25,7-6 6-4   
-Open de Nice Côte d’Azur,2015-05-17,ATP250,Outdoor,Clay,1st Round,3,Hamou M.,Carreno-Busta P.,Carreno-Busta P.,225,61,213,815,4.5,1.18,2-6 2-6   
-Open de Nice Côte d’Azur,2015-05-17,ATP250,Outdoor,Clay,1st Round,3,Monaco J.,Paire B.,Monaco J.,34,71,1170,698,1.33,3.25,6-4 6-2   
-Open de Nice Côte d’Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Venus M.,Johnson S.,Johnson S.,516,55,65,850,6.5,1.11,5-7 3-6   
-Open de Nice Côte d’Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Querrey S.,Bemelmans R.,Querrey S.,38,95,1115,542,1.25,3.75,6-2 6-3   
-Open de Nice Côte d’Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Groth S.,Coric B.,Coric B.,73,53,688,890,2.75,1.4,5-7 3-6   
-Open de Nice Côte d’Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Thiem D.,Estrella Burgos V.,Thiem D.,42,46,995,945,1.57,2.25,7-6 6-2   
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Tiafoe F.,Duckworth J.,Duckworth J.,291,88,162,589,2.25,1.57,7-6 5-7 2-6  
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Mina G.,Tomic B.,Mina G.,269,28,184,1320,5.5,1.14,6-2    
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Kukushkin M.,Kyrgios N.,Kyrgios N.,57,30,842,1230,3,1.36,6-7 2-6   
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Sock J.,Lajovic D.,75,36,685,1137,2.75,1.4,5-7 7-5 6-1  
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Smyczek T.,Pouille L.,Pouille L.,72,91,688,573,2.75,1.4,3-6 0-6   
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Dolgopolov O.,Stakhovsky S.,Dolgopolov O.,68,52,705,894,1.28,3.5,3-6 7-5 6-2  
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,2nd Round,3,Johnson S.,Isner J.,Isner J.,55,17,850,1935,3.75,1.25,6-7 6-4 3-6  
-Open de Nice Côte d’Azur,2015-05-19,ATP250,Outdoor,Clay,2nd Round,3,Monaco J.,Querrey S.,Monaco J.,34,38,1170,1115,1.4,2.75,6-3 6-1   
-Open de Nice Côte d’Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Pouille L.,Mayer L.,Mayer L.,91,24,573,1487,3.25,1.33,4-6 0-6   
-Open de Nice Côte d’Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Carreno-Busta P.,Lajovic D.,75,61,685,815,2.1,1.66,6-3 4-6 7-5  
-Open de Nice Côte d’Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Kyrgios N.,Thiem D.,Thiem D.,30,42,1230,995,1.66,2.1,3-4    
-Open de Nice Côte d’Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Gulbis E.,Dolgopolov O.,Gulbis E.,25,68,1480,705,2.62,1.44,7-5 4-6 6-1  
-Open de Nice Côte d’Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Mina G.,Coric B.,Coric B.,269,53,184,890,5,1.16,6-7 3-6   
-Open de Nice Côte d’Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Duckworth J.,Halys Q.,Duckworth J.,88,304,589,153,1.36,3,7-6 7-6   
-Open de Nice Côte d’Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Lajovic D.,Isner J.,Isner J.,75,17,685,1935,3.25,1.33,6-7 4-6   
-Open de Nice Côte d’Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Thiem D.,Gulbis E.,Thiem D.,42,25,995,1480,1.57,2.25,6-2 6-4   
-Open de Nice Côte d’Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Monaco J.,Mayer L.,Mayer L.,34,24,1170,1487,1.44,2.62,3-6 4-6   
-Open de Nice Côte d’Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Coric B.,Duckworth J.,Coric B.,53,88,890,589,1.3,3.4,6-3 7-6   
-Open de Nice Côte d’Azur,2015-05-22,ATP250,Outdoor,Clay,Semifinals,3,Isner J.,Thiem D.,Thiem D.,17,42,1935,995,1.57,2.37,6-7 3-6   
-Open de Nice Côte d’Azur,2015-05-22,ATP250,Outdoor,Clay,Semifinals,3,Mayer L.,Coric B.,Mayer L.,24,53,1487,890,1.44,2.75,6-4 6-3   
-Open de Nice Côte d’Azur,2015-05-23,ATP250,Outdoor,Clay,The Final,3,Mayer L.,Thiem D.,Thiem D.,24,42,1487,995,2.1,1.72,7-6 5-7 6-7  
+Open de Nice Cï¿½te dï¿½Azur,2015-05-17,ATP250,Outdoor,Clay,1st Round,3,Hamou M.,Carreno-Busta P.,Carreno-Busta P.,225,61,213,815,4.5,1.18,2-6 2-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-17,ATP250,Outdoor,Clay,1st Round,3,Monaco J.,Paire B.,Monaco J.,34,71,1170,698,1.33,3.25,6-4 6-2   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Venus M.,Johnson S.,Johnson S.,516,55,65,850,6.5,1.11,5-7 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Querrey S.,Bemelmans R.,Querrey S.,38,95,1115,542,1.25,3.75,6-2 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Groth S.,Coric B.,Coric B.,73,53,688,890,2.75,1.4,5-7 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-18,ATP250,Outdoor,Clay,1st Round,3,Thiem D.,Estrella Burgos V.,Thiem D.,42,46,995,945,1.57,2.25,7-6 6-2   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Tiafoe F.,Duckworth J.,Duckworth J.,291,88,162,589,2.25,1.57,7-6 5-7 2-6  
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Mina G.,Tomic B.,Mina G.,269,28,184,1320,5.5,1.14,6-2    
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Kukushkin M.,Kyrgios N.,Kyrgios N.,57,30,842,1230,3,1.36,6-7 2-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Sock J.,Lajovic D.,75,36,685,1137,2.75,1.4,5-7 7-5 6-1  
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Smyczek T.,Pouille L.,Pouille L.,72,91,688,573,2.75,1.4,3-6 0-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,1st Round,3,Dolgopolov O.,Stakhovsky S.,Dolgopolov O.,68,52,705,894,1.28,3.5,3-6 7-5 6-2  
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,2nd Round,3,Johnson S.,Isner J.,Isner J.,55,17,850,1935,3.75,1.25,6-7 6-4 3-6  
+Open de Nice Cï¿½te dï¿½Azur,2015-05-19,ATP250,Outdoor,Clay,2nd Round,3,Monaco J.,Querrey S.,Monaco J.,34,38,1170,1115,1.4,2.75,6-3 6-1   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Pouille L.,Mayer L.,Mayer L.,91,24,573,1487,3.25,1.33,4-6 0-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Carreno-Busta P.,Lajovic D.,75,61,685,815,2.1,1.66,6-3 4-6 7-5  
+Open de Nice Cï¿½te dï¿½Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Kyrgios N.,Thiem D.,Thiem D.,30,42,1230,995,1.66,2.1,3-4    
+Open de Nice Cï¿½te dï¿½Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Gulbis E.,Dolgopolov O.,Gulbis E.,25,68,1480,705,2.62,1.44,7-5 4-6 6-1  
+Open de Nice Cï¿½te dï¿½Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Mina G.,Coric B.,Coric B.,269,53,184,890,5,1.16,6-7 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-20,ATP250,Outdoor,Clay,2nd Round,3,Duckworth J.,Halys Q.,Duckworth J.,88,304,589,153,1.36,3,7-6 7-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Lajovic D.,Isner J.,Isner J.,75,17,685,1935,3.25,1.33,6-7 4-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Thiem D.,Gulbis E.,Thiem D.,42,25,995,1480,1.57,2.25,6-2 6-4   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Monaco J.,Mayer L.,Mayer L.,34,24,1170,1487,1.44,2.62,3-6 4-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-21,ATP250,Outdoor,Clay,Quarterfinals,3,Coric B.,Duckworth J.,Coric B.,53,88,890,589,1.3,3.4,6-3 7-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-22,ATP250,Outdoor,Clay,Semifinals,3,Isner J.,Thiem D.,Thiem D.,17,42,1935,995,1.57,2.37,6-7 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-22,ATP250,Outdoor,Clay,Semifinals,3,Mayer L.,Coric B.,Mayer L.,24,53,1487,890,1.44,2.75,6-4 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2015-05-23,ATP250,Outdoor,Clay,The Final,3,Mayer L.,Thiem D.,Thiem D.,24,42,1487,995,2.1,1.72,7-6 5-7 6-7  
 French Open,2015-05-24,Grand Slam,Outdoor,Clay,1st Round,5,Bautista R.,Mayer F.,Bautista R.,20,527,1750,63,1.11,6.5,6-3 6-1 6-3  
 French Open,2015-05-24,Grand Slam,Outdoor,Clay,1st Round,5,Youzhny M.,Dzumhur D.,Dzumhur D.,68,88,720,601,1.57,2.25,2-6 1-6   
 French Open,2015-05-24,Grand Slam,Outdoor,Clay,1st Round,5,Kohlschreiber P.,Soeda G.,Kohlschreiber P.,28,92,1285,575,1.04,13,6-1 6-0 6-2  
@@ -9019,33 +9019,33 @@ Geneva Open,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Rosol L.,Kuznetsov An
 Geneva Open,2016-05-20,ATP250,Outdoor,Clay,Semifinals,3,Ferrer D.,Cilic M.,Cilic M.,12,11,2650,2715,1.61,2.3,5-7 5-7   
 Geneva Open,2016-05-20,ATP250,Outdoor,Clay,Semifinals,3,Wawrinka S.,Rosol L.,Wawrinka S.,4,68,6110,757,1.08,8,6-2 4-6 6-3  
 Geneva Open,2016-05-21,ATP250,Outdoor,Clay,The Final,3,Cilic M.,Wawrinka S.,Wawrinka S.,11,4,2715,6110,3.5,1.3,4-6 6-7   
-Open de Nice Côte d’Azur,2016-05-15,ATP250,Outdoor,Clay,1st Round,3,Estrella Burgos V.,Kudla D.,Estrella Burgos V.,88,57,655,855,1.83,1.83,6-3 6-2   
-Open de Nice Côte d’Azur,2016-05-15,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Mannarino A.,Mannarino A.,86,63,685,780,1.4,2.75,7-6 3-6 4-6  
-Open de Nice Côte d’Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Sousa J.,Halys Q.,Sousa J.,28,154,1335,350,1.36,3,5-7 6-4 6-4  
-Open de Nice Côte d’Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Medvedev D.,Pella G.,Pella G.,244,54,217,869,5,1.16,1-6 7-6 6-7  
-Open de Nice Côte d’Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Schwartzman D.,Verdasco F.,Schwartzman D.,65,56,769,855,2.25,1.57,7-6 6-1   
-Open de Nice Côte d’Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Marchenko I.,Fritz T.,Fritz T.,69,72,751,744,2.62,1.44,6-7 4-6   
-Open de Nice Côte d’Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Young D.,Fognini F.,Young D.,82,34,695,1205,3.5,1.28,4-6 6-3 6-3  
-Open de Nice Côte d’Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Edmund K.,Zverev A.,Zverev A.,84,48,689,930,2.75,1.4,7-5 5-7   
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Granollers M.,Baker B.,Granollers M.,58,669,842,40,1.28,3.5,6-3 6-1   
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Mayer L.,Mayer L.,59,51,815,885,2.25,1.57,6-7 6-3 3-6  
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Mathieu P.H.,Chung H.,Mathieu P.H.,67,112,761,547,1.5,2.5,7-6 6-3   
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Munoz De La Nava D.,Seppi A.,Seppi A.,106,41,561,1050,3.5,1.28,7-6 5-7 4-6  
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Anderson K.,Schwartzman D.,Anderson K.,20,65,1795,769,2.37,1.53,7-6 6-3   
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Paire B.,Mannarino A.,Mannarino A.,21,63,1641,780,1.3,3.4,3-6 0-6   
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Pella G.,Young D.,Pella G.,54,82,869,695,1.36,3,6-3 6-0   
-Open de Nice Côte d’Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Estrella Burgos V.,Sousa J.,Sousa J.,88,28,655,1335,2.5,1.5,6-3 4-6 4-6  
-Open de Nice Côte d’Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Zverev A.,Granollers M.,Zverev A.,48,58,930,842,1.5,2.5,7-5 6-7 6-2  
-Open de Nice Côte d’Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Mathieu P.H.,Seppi A.,Seppi A.,67,41,761,1050,1.66,2.1,6-4 2-6 4-6  
-Open de Nice Côte d’Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,Fritz T.,Simon G.,18,72,1945,744,1.18,4.5,6-4 6-4   
-Open de Nice Côte d’Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Mayer L.,Thiem D.,Thiem D.,51,15,885,2430,3.4,1.3,3-6 0-6   
-Open de Nice Côte d’Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Sousa J.,Anderson K.,Sousa J.,28,20,1335,1795,2.1,1.66,7-5 7-5   
-Open de Nice Côte d’Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Simon G.,Zverev A.,Zverev A.,18,48,1945,930,1.57,2.25,3-6 7-6 6-7  
-Open de Nice Côte d’Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Mannarino A.,Pella G.,Mannarino A.,63,54,780,869,3.25,1.33,5-7 7-6 6-1  
-Open de Nice Côte d’Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Seppi A.,Thiem D.,Thiem D.,41,15,1050,2430,5.5,1.14,3-6 3-6   
-Open de Nice Côte d’Azur,2016-05-20,ATP250,Outdoor,Clay,Semifinals,3,Zverev A.,Sousa J.,Zverev A.,48,28,930,1335,1.57,2.37,6-4 4-6 6-2  
-Open de Nice Côte d’Azur,2016-05-20,ATP250,Outdoor,Clay,Semifinals,3,Mannarino A.,Thiem D.,Thiem D.,63,15,780,2430,7,1.1,1-6 3-6   
-Open de Nice Côte d’Azur,2016-05-21,ATP250,Outdoor,Clay,The Final,3,Thiem D.,Zverev A.,Thiem D.,15,48,2430,930,1.22,4.33,6-4 3-6 6-0  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-15,ATP250,Outdoor,Clay,1st Round,3,Estrella Burgos V.,Kudla D.,Estrella Burgos V.,88,57,655,855,1.83,1.83,6-3 6-2   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-15,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Mannarino A.,Mannarino A.,86,63,685,780,1.4,2.75,7-6 3-6 4-6  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Sousa J.,Halys Q.,Sousa J.,28,154,1335,350,1.36,3,5-7 6-4 6-4  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Medvedev D.,Pella G.,Pella G.,244,54,217,869,5,1.16,1-6 7-6 6-7  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Schwartzman D.,Verdasco F.,Schwartzman D.,65,56,769,855,2.25,1.57,7-6 6-1   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Marchenko I.,Fritz T.,Fritz T.,69,72,751,744,2.62,1.44,6-7 4-6   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Young D.,Fognini F.,Young D.,82,34,695,1205,3.5,1.28,4-6 6-3 6-3  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-16,ATP250,Outdoor,Clay,1st Round,3,Edmund K.,Zverev A.,Zverev A.,84,48,689,930,2.75,1.4,7-5 5-7   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Granollers M.,Baker B.,Granollers M.,58,669,842,40,1.28,3.5,6-3 6-1   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Mayer L.,Mayer L.,59,51,815,885,2.25,1.57,6-7 6-3 3-6  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Mathieu P.H.,Chung H.,Mathieu P.H.,67,112,761,547,1.5,2.5,7-6 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,1st Round,3,Munoz De La Nava D.,Seppi A.,Seppi A.,106,41,561,1050,3.5,1.28,7-6 5-7 4-6  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Anderson K.,Schwartzman D.,Anderson K.,20,65,1795,769,2.37,1.53,7-6 6-3   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Paire B.,Mannarino A.,Mannarino A.,21,63,1641,780,1.3,3.4,3-6 0-6   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Pella G.,Young D.,Pella G.,54,82,869,695,1.36,3,6-3 6-0   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-17,ATP250,Outdoor,Clay,2nd Round,3,Estrella Burgos V.,Sousa J.,Sousa J.,88,28,655,1335,2.5,1.5,6-3 4-6 4-6  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Zverev A.,Granollers M.,Zverev A.,48,58,930,842,1.5,2.5,7-5 6-7 6-2  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Mathieu P.H.,Seppi A.,Seppi A.,67,41,761,1050,1.66,2.1,6-4 2-6 4-6  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,Fritz T.,Simon G.,18,72,1945,744,1.18,4.5,6-4 6-4   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-18,ATP250,Outdoor,Clay,2nd Round,3,Mayer L.,Thiem D.,Thiem D.,51,15,885,2430,3.4,1.3,3-6 0-6   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Sousa J.,Anderson K.,Sousa J.,28,20,1335,1795,2.1,1.66,7-5 7-5   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Simon G.,Zverev A.,Zverev A.,18,48,1945,930,1.57,2.25,3-6 7-6 6-7  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Mannarino A.,Pella G.,Mannarino A.,63,54,780,869,3.25,1.33,5-7 7-6 6-1  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-19,ATP250,Outdoor,Clay,Quarterfinals,3,Seppi A.,Thiem D.,Thiem D.,41,15,1050,2430,5.5,1.14,3-6 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-20,ATP250,Outdoor,Clay,Semifinals,3,Zverev A.,Sousa J.,Zverev A.,48,28,930,1335,1.57,2.37,6-4 4-6 6-2  
+Open de Nice Cï¿½te dï¿½Azur,2016-05-20,ATP250,Outdoor,Clay,Semifinals,3,Mannarino A.,Thiem D.,Thiem D.,63,15,780,2430,7,1.1,1-6 3-6   
+Open de Nice Cï¿½te dï¿½Azur,2016-05-21,ATP250,Outdoor,Clay,The Final,3,Thiem D.,Zverev A.,Thiem D.,15,48,2430,930,1.22,4.33,6-4 3-6 6-0  
 French Open,2016-05-22,Grand Slam,Outdoor,Clay,1st Round,5,Cecchinato M.,Kyrgios N.,Kyrgios N.,124,19,478,1855,17,1.02,6-7 6-7 4-6  
 French Open,2016-05-22,Grand Slam,Outdoor,Clay,1st Round,5,Paire B.,Albot R.,Paire B.,21,137,1641,423,1.14,5,6-2 4-6 6-4 1-6 6-4
 French Open,2016-05-22,Grand Slam,Outdoor,Clay,1st Round,5,Ungur A.,Sijsling I.,Sijsling I.,203,123,264,484,1.66,2.1,1-6 2-6 6-7  
